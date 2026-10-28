@@ -9,7 +9,7 @@ from tkinter import filedialog, messagebox, scrolledtext, simpledialog, ttk
 from datetime import datetime
 import argparse
 
-APP_VERSION = "development (unreleased)"
+APP_VERSION = "1.0"
 
 # ── Executables ───────────────────────────────────────────────────────────────
 DISM_EXE  = r"C:\Windows\System32\dism.exe"
